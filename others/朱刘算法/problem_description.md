@@ -68,4 +68,4 @@ Otherwise, print the minimum cost and the number of manager. If there exists mul
 
 **Hint**
 
-For \( 100\% \) of the testcases, \( 1 \leq n \leq 10^3, 1 \leq m \leq 10^4, 1 \leq C \leq 1000 \).
+For \( 100\% \) of the testcases, \( $1 \leq n \leq 10^3, 1 \leq m \leq 10^4, 1 \leq C \leq 1000$ \).
